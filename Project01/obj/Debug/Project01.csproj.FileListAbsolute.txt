@@ -1,0 +1,8 @@
+C:\Users\farid\source\repos\Project01\Project01\bin\Debug\Project01.exe.config
+C:\Users\farid\source\repos\Project01\Project01\bin\Debug\Project01.exe
+C:\Users\farid\source\repos\Project01\Project01\bin\Debug\Project01.pdb
+C:\Users\farid\source\repos\Project01\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\farid\source\repos\Project01\Project01\obj\Debug\Project01.csproj.SuggestedBindingRedirects.cache
+C:\Users\farid\source\repos\Project01\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\Project01\Project01\obj\Debug\Project01.exe
+C:\Users\farid\source\repos\Project01\Project01\obj\Debug\Project01.pdb
